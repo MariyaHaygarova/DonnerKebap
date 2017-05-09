@@ -1,0 +1,101 @@
+@media only screen and (max-width : 1200px) {
+	header .header-area {
+		padding: 0;
+	}
+	header .header-area .main-menu ul li {
+		padding: 5px 0 0 15px;
+	}
+	header .header-area-right ul li a {
+		padding: 5px 10px;
+	}
+	.slider-area .slider-2 h1, .slider-area .slider-1 h1 {
+		font-size: 50px;
+	}
+	.slider-area .slider-2 div.title2, .slider-area .slider-1 div.title2 {
+		padding: 0;
+	}
+}
+@media only screen and (max-width : 992px) {
+	header .header-area-right ul {
+		text-align: center;
+	}
+	header .header-area .main-menu nav {
+		text-align: center;
+	}
+	.slider-area .slider-2 h1, .slider-area .slider-1 h1 {
+		font-size: 40px;
+	}
+	.slider-area .slider-2 div.slider-botton ul li.active a, .slider-area .slider-1 div.slider-botton ul li.active a,
+	.slider-area .slider-2 div.slider-botton ul li a, .slider-area .slider-1 div.slider-botton ul li a  {
+		padding: 10px 20px;
+	}
+	.home-one-about-us, .client-testimonial-area, .home-one-services-area, .counter-up-area, .reservation-area, .chefs-area, footer {
+		padding: 30px 0;
+	}
+	.nivo-caption {
+		bottom: 0;
+	}
+	.about-content-details {
+		text-align: center;
+	}
+}
+@media only screen and (max-width : 810px) {
+
+	.slider-area .slider-2 h1, .slider-area .slider-1 h1 {
+		font-size: 30px;
+	}
+	.slider-area .slider-2 div.title2, .slider-area .slider-1 div.title2 {
+		font-size: 15px;
+	}
+}
+@media only screen and (max-width : 743px) {
+	.slider-area .slider-2 h1, .slider-area .slider-1 h1 {
+		font-size: 25px;
+	}
+	.slider-area .slider-2 div.title2, .slider-area .slider-1 div.title2  {
+		font-size: 15px;
+	}
+
+}
+@media only screen and (max-width : 689px) {
+	header .header-area {
+		position: initial;
+	}
+	header .header-area-right {
+		display: none;
+	}
+	.logo-area {
+		margin: 10px 0;
+	}
+	.slider-area .slider-2 h1, .slider-area .slider-1 h1, .slider-area .slider-2 div.title2, .slider-area .slider-1 div.title2 {
+		display: none;
+	}
+	.header-top-area {
+		text-align: center;
+	}
+	.client-testimonial-area .single-testimonial p {
+		padding: 0;
+	}
+	.client-testimonial-area .single-testimonial p:before ,.client-testimonial-area .single-testimonial p:after {
+		top: -20px;
+		font-size: 20px;
+	}
+	footer h5 {
+		margin-top: 20px;
+	}
+}
+@media only screen and (max-width : 583px) {
+	.image-details .info {
+		top: 80%;
+		padding: 0;
+	}
+	.info p {
+		display: none;
+	}
+	.slider-area .slider-2 div.slider-botton ul li, .slider-area .slider-1 div.slider-botton ul li {
+		margin-right: initial;
+	}
+	.slider-area .slider-2 div.slider-botton ul li.active a, .slider-area .slider-1 div.slider-botton ul li.active a {
+		padding: 5px 15px;
+	}
+}
